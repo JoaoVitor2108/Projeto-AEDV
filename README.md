@@ -4,6 +4,12 @@ Projeto final de **Análise Exploratória de Dados e Visualização** (FGV EMAp,
 
 **Autores:** Abner Blota, Frederico Taveira e João Vitor Maia Prates
 
+**Contribuições:**
+-Abner Blota: Perguntas 6, 7, 8
+-Frederico Taveira: Perguntas 3, 4, 5
+-João Vitor Maia: Captação e Tratamento de Dados, Perguntas 1 e 2
+
+
 ## Sobre o projeto
 
 Investigamos como o custo do crédito (spread) e a inadimplência evoluíram no Brasil entre 2011 e 2026, e como variam entre pessoas físicas e jurídicas, tipos de crédito, estados, faixas de renda e portes de empresa. Também olhamos como essas variáveis respondem às mudanças da taxa Selic, em tempo e em intensidade.
