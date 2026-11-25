@@ -5,8 +5,11 @@ Projeto final de **Análise Exploratória de Dados e Visualização** (FGV EMAp,
 **Autores:** Abner Blota, Frederico Taveira e João Vitor Maia Prates
 
 **Contribuições:**
+
 -Abner Blota: Perguntas 6, 7, 8
+
 -Frederico Taveira: Perguntas 3, 4, 5
+
 -João Vitor Maia: Captação e Tratamento de Dados, Perguntas 1 e 2
 
 
